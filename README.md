@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerHillery
 - 👀 I’m interested in anything data.
-- 🌱 I’m currently learning about Python.
+- 🌱 I’m currently learning about Python & API developement
 - 🧠 Life long learner
 - 📫 You can reach me at linkedin https://www.linkedin.com/in/tylerhillery/
 
