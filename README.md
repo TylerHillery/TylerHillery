@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TylerHillery
+### Hi there👋, I'm Tyler!
 - 🧠 Life long learner
 - 👀 I’m interested in anything data. 
 - 🌱 I’m currently learning about Python & API developement
-- 📫 You can reach me at linkedin https://www.linkedin.com/in/tylerhillery/
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/_TylerHillery) [![Linkedin: tylerhillery](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylerhillery/)](https://www.linkedin.com/in/tylerhillery/) 
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/_TylerHillery)    [![Linkedin: tylerhillery](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylerhillery/)](https://www.linkedin.com/in/tylerhillery/) 
 
 
 <!---
