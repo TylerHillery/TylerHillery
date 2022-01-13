@@ -3,6 +3,8 @@
 - 👀 I’m interested in anything data. 
 - 🌱 I’m currently learning about Python & API developement
 - 📫 You can reach me at linkedin https://www.linkedin.com/in/tylerhillery/
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/_TylerHillery) [![Linkedin: tylerhillery](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylerhillery/)](https://www.linkedin.com/in/tylerhillery/) 
+
 
 <!---
 TylerHillery/TylerHillery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
