@@ -1,5 +1,5 @@
 ### Hi there👋, I'm Tyler!
-- 🧠 Life long learner
+- 🧠 Lifelong learner
 - 👀 I’m interested in anything data. 
 - 🌱 I’m currently learning about Python API developement & Advanced SQL methods
 
