@@ -1,5 +1,5 @@
 ### Hi there👋, I'm Tyler!
-- 🧠 Lifelong learner interested in 
+- Lifelong learner interested in:
   - Data infrastructure ⚙️
   - Analytics engineering 📊
 
