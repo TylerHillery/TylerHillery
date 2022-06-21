@@ -1,6 +1,7 @@
 ### Hi there👋, I'm Tyler!
-- 🧠 Lifelong learner
-- 👀 Interested in data infrastructure ⚙️ & analytics engineering 📊
+- 🧠 Lifelong learner interested in 
+  - Data infrastructure ⚙️
+  - Analytics engineering 📊
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/_TylerHillery)    [![Linkedin: tylerhillery](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylerhillery/)](https://www.linkedin.com/in/tylerhillery/) 
 
