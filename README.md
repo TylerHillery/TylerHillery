@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Tyler!
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/_TylerHillery)    [![Linkedin: tylerhillery](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylerhillery/)](https://www.linkedin.com/in/tylerhillery/) 
 
-Data practitioner & lifelong learner interested in data infrastructure, engineering, distributed systems, programming, analytics, OSS, data processing & storage. Demonstrated experience in the investment management & financial services industry. 
+Data practitioner & lifelong learner interested in data infrastructure, engineering, distributed systems, programming, analytics, OSS, data processing & storage. Demonstrated experience in the capital markets industry. 
 
 ### My Career Goal 🎯
 To help build systems, infrastructure and technology that makes data more accessible.
