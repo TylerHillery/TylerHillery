@@ -14,7 +14,7 @@ Gratitude.
 - [My Projects](https://www.tylerhillery.com/pages/projects.html#projects)
 - [What motivated me to start contributing to open source](https://www.tylerhillery.com/getting-started-in-oss.html#getting-started-in-oss)
 
-<a rel="me" class="sc-mastodon" href="https://data-folks.masto.host/@TylerHillery" target="_blank"> </a>
+<a rel="me" href="https://data-folks.masto.host/@TylerHillery" target="_blank">
 <!---
 TylerHillery/TylerHillery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
