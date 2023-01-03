@@ -11,8 +11,8 @@ Gratitude.
 
 ### Ask me about 🗣️
 - [Research on Grit](https://blog.uwsp.edu/cps/2019/04/17/business-students-present-findings-at-research-in-the-rotunda/)
-- [My Projects](https://www.tylerhillery.com/pages/projects.html#projects)
-- [What motivated me to start contributing to open source](https://www.tylerhillery.com/getting-started-in-oss.html#getting-started-in-oss)
+- [My Projects](https://www.tylerhillery.com/projects.html)
+- [What motivated me to start contributing to open source](https://www.tylerhillery.com/blog/getting-started-in-os/)
 
 <!---
 TylerHillery/TylerHillery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
