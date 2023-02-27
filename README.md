@@ -4,7 +4,7 @@
 Data practitioner & lifelong learner interested in data infrastructure, engineering, distributed systems, programming, analytics, OSS, data processing & storage.
 
 ### My Career Goal 🎯
-To help build systems, infrastructure and technology that makes data more accessible.
+To help build systems, infrastructure and technology that empowers others.
 
 ### What Drives Me? 
 Gratitude.
