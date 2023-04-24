@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Tyler!
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Follow&logo=Twitter&style=social)](https://twitter.com/_TylerHillery)    [![Linkedin: tylerhillery](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylerhillery/)](https://www.linkedin.com/in/tylerhillery/)   <a rel="me" href="https://data-folks.masto.host/@TylerHillery" target="_blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109303859983678063?domain=https%3A%2F%2Fdata-folks.masto.host&style=social"> </a>
 
-Data practitioner & lifelong learner interested in data infrastructure, engineering, distributed systems, programming, analytics, OSS, data processing & storage.
+Data practitioner & lifelong learner interested in database internals, data infrastructure, distributed systems, data streaming, programming languages, dev tools, open source software.
 
 ### My Career Goal 🎯
 To help build systems, infrastructure and technology that empowers others.
