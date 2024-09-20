@@ -4,7 +4,7 @@
 *Pragmatic Dev* & *Lifelong Learner*
 
 ### My Career Goal 🎯
-To help build data systems, infrastructure and technology that empowers others.
+To help build systems, infrastructure and technology that empowers others.
 
 ### What Drives Me? 
 Gratitude.
