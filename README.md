@@ -1,15 +1,6 @@
-### Hi there👋, I'm Tyler!
+*Pragmatic Dev* & *Lifelong Learner* peeling back the layers of abstraction. 
 
-*Pragmatic Dev* & *Lifelong Learner*
-
-### My Career Goal 🎯
-To help build systems, infrastructure and technology that empowers others.
-
-### What Drives Me? 
-Gratitude.
-
-### Ask me about 🗣️
-- [My Projects](https://www.tylerhillery.com/projects.html)
+Learn more about me [here](https://tylerhillery.com/) and checkout [my projects](https://www.tylerhillery.com/projects.html).
 
 <!---
 TylerHillery/TylerHillery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
