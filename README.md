@@ -1,4 +1,4 @@
-*Pragmatic Dev* & *Lifelong Learner* peeling back the layers of abstraction. 
+***Product-minded*** engineer, ***lifelong learner*** and ***high-leverage generalist*** passionate about understanding the *‘why’* behind systems and products.
 
 Learn more about me [here](https://tylerhillery.com/) and checkout [my projects](https://www.tylerhillery.com/projects.html).
 
