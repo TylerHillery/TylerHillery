@@ -1,4 +1,6 @@
-***Product-minded*** engineer and ***lifelong learner*** passionate about understanding the *‘why’* behind systems and products.
+Lifelong learner passionate about understanding the "how" and "why" behind systems by peeling back the layers of abstraction. I'm especially drawn to the interplay between infrastructure, data systems, and developer experience.
+
+Driven by curiosity, grounded in gratitude.
 
 Learn more about me [here](https://tylerhillery.com/) and checkout [my projects](https://www.tylerhillery.com/projects.html).
 
