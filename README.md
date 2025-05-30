@@ -1,4 +1,4 @@
-Lifelong learner passionate about understanding the "how" and "why" behind systems by peeling back the layers of abstraction. I'm especially drawn to the interplay between infrastructure, data systems, and developer experience.
+Lifelong learner passionate about understanding the "how" and "why" behind systems by peeling back the layers of abstraction. I'm especially drawn to the interplay between infrastructure, data systems, and product.
 
 Driven by curiosity, grounded in gratitude.
 
