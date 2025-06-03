@@ -1,4 +1,4 @@
-Lifelong learner passionate about understanding the "how" and "why" behind systems by peeling back the layers of abstraction. My interests span infrastructure, data systems, and product.
+Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My interests span infrastructure, data systems and product. I'm energized by seeing things through from idea to production.
 
 Driven by curiosity, grounded in gratitude.
 
