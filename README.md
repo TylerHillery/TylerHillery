@@ -1,4 +1,4 @@
-Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My interests span infrastructure, data systems, observability, testing, debugging and product.
+Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My interests span backend services, infrastructure, data systems, networking and product.
 
 Driven by curiosity, grounded in gratitude.
 
