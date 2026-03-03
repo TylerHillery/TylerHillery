@@ -1,4 +1,4 @@
-Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My main interests are in database systems, how services communicate over the network (TCP, HTTP, gRPC, service proxies) and the observability tooling that helps debug and reason about these systems in production.
+Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My main interests are in database systems, how systems communicate over the network and the observability tooling that helps debug and reason about these systems in production.
 
 Driven by curiosity, grounded in gratitude.
 
