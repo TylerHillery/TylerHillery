@@ -1,4 +1,4 @@
-Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My main interests are in database systems, how systems communicate over the network and the observability tooling that helps debug and reason about these systems in production.
+Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My main interests are in database systems, how systems communicate over the network, systems that operate at the hardware-software boundary and the tooling used to understand and debug these systems in production.
 
 Driven by curiosity, grounded in gratitude.
 
