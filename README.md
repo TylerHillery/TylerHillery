@@ -1,4 +1,4 @@
-Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction all the way down to the silicon. My main interests are in hardware/software co-design, computer architecture, operating systems, networking, compilers and the tooling used to understand and debug these systems in production.
+Lifelong learner passionate about understanding the "*how*" and "*why*" behind software by peeling back the layers of abstraction. My main interests are in hardware/software co-design, computer architecture, operating systems, networking, compilers and the tooling used to understand and debug these systems in production.
 
 Driven by curiosity, grounded in gratitude.
 
